@@ -1,0 +1,9 @@
+[submodule "fristProject"]
+    path = "Building Your First App and Troubleshooting Common/fristProject"
+    url = https://github.com/karan-hub/fristProject.git
+[submodule "styling_components"]
+    path = styling_components
+    url = https://github.com/karan-hub/styling_components.git
+[submodule "RewriteReactNativeApp"]
+    path = RewriteReactNativeApp
+    url = https://github.com/karan-hub/RewriteReactNativeApp.git
