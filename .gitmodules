@@ -1,5 +1,5 @@
 [submodule "fristProject"]
-    path = "Building Your First App and Troubleshooting Common/fristProject"
+    path = fristProject
     url = https://github.com/karan-hub/fristProject.git
 [submodule "styling_components"]
     path = styling_components
