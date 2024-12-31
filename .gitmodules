@@ -7,3 +7,6 @@
 [submodule "RewriteReactNativeApp"]
     path = RewriteReactNativeApp
     url = https://github.com/karan-hub/RewriteReactNativeApp.git
+[submodule "ButtonEvent"]
+	path = ButtonEvent
+	url = https://github.com/karan-hub/ButtonEvent.git
