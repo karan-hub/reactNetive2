@@ -4,6 +4,6 @@
 [submodule "styling_components"]
     path = styling_components
     url = https://github.com/karan-hub/styling_components.git
-# [submodule "RewriteReactNativeApp"]
-#     path = RewriteReactNativeApp
-#     url = https://github.com/karan-hub/RewriteReactNativeApp.git
+[submodule "RewriteReactNativeApp"]
+    path = RewriteReactNativeApp
+    url = https://github.com/karan-hub/RewriteReactNativeApp.git
