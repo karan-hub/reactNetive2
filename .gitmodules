@@ -10,3 +10,6 @@
 [submodule "ButtonEvent"]
 	path = ButtonEvent
 	url = https://github.com/karan-hub/ButtonEvent.git
+[submodule "State"]
+	path = State
+	url = https://github.com/karan-hub/ButtonEvent.git
