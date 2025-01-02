@@ -13,3 +13,6 @@
 [submodule "State"]
 	path = State
 	url = https://github.com/karan-hub/ButtonEvent.git
+[submodule "props"]
+	path = props
+	url = https://github.com/karan-hub/props.git
