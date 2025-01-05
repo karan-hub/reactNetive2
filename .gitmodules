@@ -19,3 +19,6 @@
 [submodule "ReactNetiveStyling"]
 	path = ReactNetiveStyling
 	url = https://github.com/karan-hub/ReactNetiveStyling.git
+[submodule "GetInput"]
+	path = GetInput
+	url = https://github.com/karan-hub/GetInput.git
