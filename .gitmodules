@@ -16,3 +16,6 @@
 [submodule "props"]
 	path = props
 	url = https://github.com/karan-hub/props.git
+[submodule "ReactNetiveStyling"]
+	path = ReactNetiveStyling
+	url = https://github.com/karan-hub/ReactNetiveStyling.git
