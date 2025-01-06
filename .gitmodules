@@ -22,3 +22,6 @@
 [submodule "GetInput"]
 	path = GetInput
 	url = https://github.com/karan-hub/GetInput.git
+[submodule "From"]
+	path = From
+	url = https://github.com/karan-hub/From.git
