@@ -25,3 +25,6 @@
 [submodule "From"]
 	path = From
 	url = https://github.com/karan-hub/From.git
+[submodule "Project01"]
+	path = Project01
+	url = https://github.com/karan-hub/Project01-React-Netive.git
