@@ -30,5 +30,5 @@
 	url = https://github.com/karan-hub/Project01-React-Netive.git
 
 [submodule "FlatList"]
-	path = FlatList
+	path = FlatList   
 	url = https://github.com/karan-hub/FlatList.git
